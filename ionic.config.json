@@ -1,0 +1,7 @@
+{
+  "name": "CMCApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
